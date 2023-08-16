@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ge3626&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ge3626&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ge3626&theme=vue-dark&hide_border=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoo_gaeun_) 
