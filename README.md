@@ -2,7 +2,6 @@
 <ul>
   <li>I'm a high school student who wants to be a developer and loves coding. (even if it is 10 hours of long debugging 👀).</li>
   <li>I'm currently learning python, javascript and web development!</li>
-  <li><em>I'm also looking for a side project team to get in and work together to advance my experience!</em></li>
   <li>I'm passionate about whatever it is regarding programming!</li>
   <li>I wants to learn machine learning with python later.</li>
   <li>I speak both English and Korean. (I'm from South Korea!)</li>
