@@ -1,4 +1,4 @@
-# Hey! There.👋
+# Hey! There👋
 <ul>
   <li>I'm a high school student who wants to be a developer and loves coding. (even if it is 10 hours of long debugging 👀).</li>
   <li>I'm currently learning python, javascript and web development!</li>
