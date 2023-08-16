@@ -1,4 +1,4 @@
-##Hey There!👋
+Hey! There👋
 # 💫 About Me:
 I'm a high school student who wants to be frontend developer.<br>I'm currently learning web development.
 
